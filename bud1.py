@@ -1,7 +1,7 @@
 class Budget:
     """
     this is a software that allows user to keep track of their expenditure and make transfer to the categories when
-    they are on less fund
+    they are on less fund .
     """
     def __init__(self, **positions):
         self.positions = positions
